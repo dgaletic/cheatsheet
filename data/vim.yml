@@ -76,7 +76,7 @@ columns:
             - \"
           help: default register
         - cmds:
-            - 0
+            - "0"
           help: yank register
         - cmds:
             - _
@@ -199,4 +199,3 @@ columns:
         - cmds:
             - <C-r>w
           help: paste word under cursor
-
